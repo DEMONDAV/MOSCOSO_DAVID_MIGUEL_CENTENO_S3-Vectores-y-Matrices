@@ -14,6 +14,5 @@ int main()
     float promedioAsignatura[3];
     int aprobados[3] = {0, 0, 0};
     int reprobados[3] = {0, 0, 0};
-
-    return 0;
+  return 0;
 }
